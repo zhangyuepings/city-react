@@ -1,0 +1,14 @@
+.footer a{
+    flex:1;
+    font-size: .14rem;
+    text-align: center;
+    align-items: center;
+}
+.footer{
+    line-height: .4rem;
+    border-top: 1px solid #ccc;
+    position: fixed;
+    bottom: 0;
+    z-index: 999;
+    background: #ccc;
+}

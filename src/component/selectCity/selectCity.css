@@ -1,0 +1,12 @@
+
+.Right{
+    float: right;
+    display: block;
+    width: 200px;
+    text-align: right;
+    overflow: hidden;
+}
+
+.title-zm{
+    background: gray;
+} 

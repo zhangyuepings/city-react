@@ -1,0 +1,20 @@
+.content{
+    margin: 10px 10px;
+    display: inline;
+    line-height: 30px;
+    font-size: 16px;
+}
+.xuanzecity{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+.blue{
+    color: blue
+}
+.yxcity{
+     margin: 10px 10px;
+    display: inline;
+    line-height: 30px;
+    font-size: 16px;
+}
